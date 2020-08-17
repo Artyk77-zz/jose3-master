@@ -1,0 +1,17 @@
+{
+  "warehouses": [
+    {
+      "id": 1,
+      "name": "Warehouse 1",
+      "description": "This is Warehouse 1",
+      "inventory": [
+        {
+          "id": 1,
+          "itemId": 1,
+          "name": "Item",
+          "description": "Item"
+        }
+      ]
+    }
+  ]
+}
